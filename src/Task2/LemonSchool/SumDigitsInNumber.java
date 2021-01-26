@@ -1,4 +1,4 @@
-package Task2.LemonSchool;
+package task2.LemonSchool;
 
 public class SumDigitsInNumber {
     public static void main(String[] args) {

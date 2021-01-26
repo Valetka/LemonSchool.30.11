@@ -1,4 +1,4 @@
-package Task6.LemonSchool;
+package task6.LemonSchool;
 
 import java.util.Random;
 

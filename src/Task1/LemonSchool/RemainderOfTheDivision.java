@@ -1,4 +1,4 @@
-package Task1.LemonSchool;
+package task1.LemonSchool;
 
 public class RemainderOfTheDivision {
     public static void main(String[] args) {

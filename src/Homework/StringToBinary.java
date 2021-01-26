@@ -1,4 +1,4 @@
-package Homework;
+package homework;
 
 public class StringToBinary {
     public static void main(String[] args) {
@@ -9,5 +9,6 @@ public class StringToBinary {
             builder.append(Integer.toBinaryString(c)).append(' ');
         }
         System.out.println(builder);
+        System.out.println(name.hashCode());
     }
 }

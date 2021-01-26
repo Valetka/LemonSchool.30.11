@@ -1,4 +1,4 @@
-package Task14.LemonSchool;
+package task14.LemonSchool;
 
 import java.util.Scanner;
 

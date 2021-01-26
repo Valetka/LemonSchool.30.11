@@ -1,4 +1,4 @@
-package Task13.LemonSchool;
+package task13.LemonSchool;
 
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
