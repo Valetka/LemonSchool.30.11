@@ -1,4 +1,4 @@
-package task15.LemonSchool;
+package task15;
 
 public class RightTriangle {
     public static void main(String[] args) {

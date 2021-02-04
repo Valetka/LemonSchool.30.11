@@ -1,4 +1,4 @@
-package task3.LemonSchool;
+package task3;
 
 public class Rounding {
     public static void main(String[] args) {
